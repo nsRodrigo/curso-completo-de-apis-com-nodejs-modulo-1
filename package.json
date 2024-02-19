@@ -1,0 +1,17 @@
+{
+  "name": "curso-completo-de-apis-com-nodejs-modulo-1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/nsRodrigo/curso-completo-de-apis-com-nodejs-modulo-1.git",
+  "author": "Rodrigo do N Silva <rodrigo.nascim.silva@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
+}
